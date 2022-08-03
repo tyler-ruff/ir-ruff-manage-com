@@ -11,7 +11,7 @@ permalink: /
    - Quarterly Reports
    - Annual Reports
    - Annual Presentation
-2. [**Daily Earnings Release:**](/journals)
+2. [**Project Updates:**](/journals)
    - Every day we will release a raw report of the earnings for that day.
 3. [**Company Policy:**](/posts)
    - All company operations and board proceedings shall be governed by the published company policy.

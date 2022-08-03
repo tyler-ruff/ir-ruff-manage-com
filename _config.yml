@@ -1,6 +1,6 @@
 # Site Data
-title: "Ruff Management"
-tagline: " — Investor Relations"
+title: "Investors"
+tagline: " — Ruff Management Inc."
 name: "Ruff Management Inc."
 author_bio:
   "We are Ruff Management Inc., an organization passionate about agile development and efficient utilization of time."
@@ -18,7 +18,7 @@ theme_color: white
 encoding: utf-8
 
 # Links and Social Media
-donate_link: https://opencollective.com/blazed-dev
+donate_link: https://opencollective.com/ruff-management-inc
 repository: https://github.com/ruff-org/investor
 github: https://github.com/ruff-org
 twitter: https://twitter.com/RuffManage
