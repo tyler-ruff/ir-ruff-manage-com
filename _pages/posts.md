@@ -1,5 +1,5 @@
 ---
 layout: default
 permalink: /posts
-title: Company Policy
+title: News & Press Releases
 ---

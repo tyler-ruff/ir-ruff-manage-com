@@ -12,9 +12,9 @@ permalink: /
    - Annual Reports
    - Annual Presentation
 2. [**Project Updates:**](/journals)
-   - Every day we will release a raw report of the earnings for that day.
-3. [**Company Policy:**](/posts)
-   - All company operations and board proceedings shall be governed by the published company policy.
+   - Project updates will be delivered to investors on key dates.
+3. [**News & Press Releases:**](/posts)
+   - Misc press release statements and news articles.
 
 In essence, this is the dream website that I've always wanted to make since I began tinkering with HTML over ten years ago. As stated above, unlike regular Jekyll blogs, this blog has dedicated sections for [notes](/notes), as well as [journal entries](/journals). This is meant to encourage daily public writing, as well as the [Digital Garden](#digital-gardens-an-overview) philosophy.
 
