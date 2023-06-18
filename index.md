@@ -46,10 +46,10 @@ Check us out on social media:
     - Filing of business taxes and annual/quarterly report(s).
     - Human Resources (HR) and hiring outsourcing/insourcing.
     - Enterprise Resource Planning (ERP), Customer Relation Management (CRM), and Support Tickets.
-2. **Marketing**
+2. [**Marketing**](https://beez.top/)
     - Brand establishment and user experience optimization.
     - Marketing campaigns utilizing Google Ads, Facebook Ads, and Linkedin Ads.
-3. **Project Management**
+3. [**Project Management**](https://blazed.quest/)
     - Approval of project proposals, project budgeting & scheduling, and project information publishing & updates.
 
 ## Contact Us
